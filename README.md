@@ -13,4 +13,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: LOL, Hearthstone...
 
---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giterwen&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giterwen&show_icons=true&theme=radical)
+-->
